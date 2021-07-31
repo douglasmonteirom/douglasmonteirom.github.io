@@ -1,0 +1,57 @@
+body {
+    background-color: #15616D;
+}
+
+h1 {
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: 'Otomanopee One', sans-serif;
+    padding-left: 25%;
+    margin-top: 10%;
+    position: absolute;
+}
+
+strong,
+em {
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+.size-js {
+    font-size: 25px;
+}
+
+.size-html {
+    font-size: 50px;
+}
+
+.size-git {
+    font-size: 10px;
+}
+
+.size-gitHub {
+    font-size: 78px;
+}
+
+.size-css {
+    font-size: unset;
+}
+
+#image{
+    float: left;
+    width: 180px;
+    border-radius: 50%;
+    padding: 5px;
+    background-color: brown;
+    margin: 10px;
+}
+
+.image-description{
+    padding-bottom: 270px;
+}
+
+ul li:nth-child(odd){
+    background-color: cornsilk;
+}
